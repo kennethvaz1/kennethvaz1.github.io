@@ -12,12 +12,12 @@
     <body>
 
         <div class="header">
-            <h1> Transistor Circuit!</h1>
+            <h1> LED Strip Transistor Circuit!</h1>
             <p>
             <img src="CircuitA4.jpg" width=400>
             </p>
             <p>
-            In my breadboard I used a 1k ohm resistor in combination with a transistor, to properly balance the load with my photoresistor.
+            In my breadboard I used a 220 ohm resistor in combination with a transistor, to balance the load (LED strip) to be controlled with my photoresistor. In hindsight I should have used a 10k ohm resistor to prevent excessive current from being drawn from my arduino pin.
             </p>
             <p>
             <img src="Code4.JPG" width=400>
@@ -26,10 +26,10 @@
             My program prints the photoresistor and sensor output values to the serial monitor.
             </p>
             <p>
-            <img src="Scheme3.jpg" width=400>
+            <img src="Scheme4.jpg" width=400>
             </p>
             <p>
-             My schematic drawing of my circuit shows a 5V source connected to a voltage divider with 2 resistors, sensor, and LED.
+             My schematic drawing of my circuit shows a 9V power supply connected to the load (LED strip), transistor, and pin 9 of my arduino. On the other side my arduino is supplying 5V of power to a photoresistor and is connected to pin A0.
             </p>
             <p>
             <video width="480" height="360" controls >
@@ -37,7 +37,7 @@
             </video>
             </p>
             <p>
-                This GIF shows how light affects my circuit. When I cover the photoresistor the light is affected!
+                This GIF shows how light effects the load (LED strips) in my circuit. When I cover the light on my photoresistor, my LED strip turns off!
             </p>
         </div>
 
