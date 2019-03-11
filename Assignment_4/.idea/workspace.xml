@@ -3,7 +3,6 @@
   <component name="ChangeListManager">
     <list default="true" id="36ed5960-ca83-40c4-83e1-7f10ac7938ba" name="Default Changelist" comment="">
       <change beforePath="$PROJECT_DIR$/../assignment4.html" beforeDir="false" afterPath="$PROJECT_DIR$/../assignment4.html" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../index.html" beforeDir="false" afterPath="$PROJECT_DIR$/../index.html" afterDir="false" />
     </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
@@ -33,12 +32,12 @@
       </usages-collector>
       <usages-collector id="statistics.file.extensions.edit">
         <counts>
-          <entry key="html" value="1226" />
+          <entry key="html" value="1299" />
         </counts>
       </usages-collector>
       <usages-collector id="statistics.file.types.edit">
         <counts>
-          <entry key="HTML" value="1226" />
+          <entry key="HTML" value="1299" />
         </counts>
       </usages-collector>
     </session>
@@ -49,7 +48,7 @@
         <entry file="file://$PROJECT_DIR$/../assignment4.html">
           <provider selected="true" editor-type-id="text-editor">
             <state relative-caret-position="311">
-              <caret line="39" column="16" selection-start-line="39" selection-start-column="16" selection-end-line="39" selection-end-column="16" />
+              <caret line="39" column="166" selection-start-line="39" selection-start-column="166" selection-end-line="39" selection-end-column="166" />
             </state>
           </provider>
         </entry>
@@ -175,7 +174,7 @@
     <entry file="file://$PROJECT_DIR$/../assignment4.html">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="311">
-          <caret line="39" column="16" selection-start-line="39" selection-start-column="16" selection-end-line="39" selection-end-column="16" />
+          <caret line="39" column="166" selection-start-line="39" selection-start-column="166" selection-end-line="39" selection-end-column="166" />
         </state>
       </provider>
     </entry>
