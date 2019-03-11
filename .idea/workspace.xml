@@ -2,11 +2,6 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="e0074a03-f4a5-4a02-b5d0-2627789f9fc8" name="Default Changelist" comment="">
-      <change beforePath="$PROJECT_DIR$/Assignment_4/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/Assignment_4/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Circuit6.jpg" beforeDir="false" afterPath="$PROJECT_DIR$/Circuit6.jpg" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Code6.JPG" beforeDir="false" afterPath="$PROJECT_DIR$/Code6.JPG" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/GIF6.mp4" beforeDir="false" afterPath="$PROJECT_DIR$/GIF6.mp4" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Schematic6.JPG" beforeDir="false" afterPath="$PROJECT_DIR$/Schematic6.JPG" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/assignment6.html" beforeDir="false" afterPath="$PROJECT_DIR$/assignment6.html" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/index.html" beforeDir="false" afterPath="$PROJECT_DIR$/index.html" afterDir="false" />
     </list>
@@ -38,12 +33,12 @@
       </usages-collector>
       <usages-collector id="statistics.file.extensions.edit">
         <counts>
-          <entry key="html" value="1089" />
+          <entry key="html" value="1123" />
         </counts>
       </usages-collector>
       <usages-collector id="statistics.file.types.edit">
         <counts>
-          <entry key="HTML" value="1089" />
+          <entry key="HTML" value="1123" />
         </counts>
       </usages-collector>
     </session>
@@ -53,8 +48,8 @@
       <file pinned="false" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/assignment6.html">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="459">
-              <caret line="42" column="185" selection-start-line="42" selection-start-column="185" selection-end-line="42" selection-end-column="185" />
+            <state relative-caret-position="306">
+              <caret line="36" column="16" selection-start-line="36" selection-start-column="16" selection-end-line="36" selection-end-column="16" />
             </state>
           </provider>
         </entry>
@@ -71,8 +66,8 @@
       <file pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/index.html">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="272">
-              <caret line="64" column="38" selection-start-line="64" selection-start-column="38" selection-end-line="64" selection-end-column="38" />
+            <state relative-caret-position="306">
+              <caret line="66" column="45" selection-start-line="66" selection-start-column="45" selection-end-line="66" selection-end-column="45" />
             </state>
           </provider>
         </entry>
@@ -186,13 +181,6 @@
     <option name="myLimit" value="2678400000" />
   </component>
   <component name="editorHistoryManager">
-    <entry file="file://$PROJECT_DIR$/index.html">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="272">
-          <caret line="64" column="38" selection-start-line="64" selection-start-column="38" selection-end-line="64" selection-end-column="38" />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/../Assignment 6 DataLogging/p5/hcde439-example/sketch.js">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="382">
@@ -200,10 +188,17 @@
         </state>
       </provider>
     </entry>
+    <entry file="file://$PROJECT_DIR$/index.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="306">
+          <caret line="66" column="45" selection-start-line="66" selection-start-column="45" selection-end-line="66" selection-end-column="45" />
+        </state>
+      </provider>
+    </entry>
     <entry file="file://$PROJECT_DIR$/assignment6.html">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="459">
-          <caret line="42" column="185" selection-start-line="42" selection-start-column="185" selection-end-line="42" selection-end-column="185" />
+        <state relative-caret-position="306">
+          <caret line="36" column="16" selection-start-line="36" selection-start-column="16" selection-end-line="36" selection-end-column="16" />
         </state>
       </provider>
     </entry>
