@@ -4,7 +4,7 @@
         <meta charset="utf-8">
         <meta name="viewport" content="width=device-width, maximum-scale=1.0" />
 
-        <title> High voltage and transistors!</title>
+        <title> High Voltage LED Strip and Transistors!</title>
 
         <link href="style.css" media="screen" rel="stylesheet" type="text/css" />
 
@@ -14,30 +14,30 @@
         <div class="header">
             <h1> LED Strip Transistor Circuit!</h1>
             <p>
-            <img src="CircuitA4.jpg" width=400>
+            <img src="Circuit4F.jpg" width=400>
             </p>
             <p>
-            In my breadboard I used a 220 ohm resistor in combination with a transistor, to balance the load (LED strip) and to be controlled with my photoresistor. In hindsight I should have used a 10k ohm resistor to prevent excessive current from being drawn from my arduino pin.
+            In my breadboard I used two 220 ohm resistors to balance the load of an (LED strip) and be operated with my photoresistor. In hindsight I should have used 10k ohm resistors to more safely prevent excessive current from being drawn from my arduino pin.
             </p>
             <p>
             <img src="Code4.JPG" width=400>
             </p>
             <p>
-            My program prints the photoresistor and sensor output values to the serial monitor.
+            My program prints the sensor and output values to the serial monitor!
             </p>
             <p>
-            <img src="Scheme4.jpg" width=400>
+            <img src="Schematic4.jpg" width=400>
             </p>
             <p>
-             My schematic drawing of my circuit shows a 9V power supply connected to the load (LED strip), transistor, and pin 9 of my arduino. On the other side my arduino is supplying 5V of power to a photoresistor and is connected to pin A0.
+            I connected Pin 9 of my Arduino to a 220 ohm resistor and then to a transistor which was connected to the LED strip on one side and to ground and the 9V battery on the other. Similarly Pin A0 is connected to a 220 ohm resistor leading to ground and 9V on side and to a photoresitor and 5V on the other. This schematic safely allows the transistor to ampfliy the current of the LED strip, while having the resistors balance out the load.
             </p>
             <p>
             <video width="480" height="360" controls >
-               <source src="GIF4.mp4" type="video/mp4">
+               <source src="GIF4f.mp4" type="video/mp4">
             </video>
             </p>
             <p>
-                This GIF shows how light effects the load (LED strips) in my circuit. When I cover the light on my photoresistor, my LED strip turns off!
+                This GIF shows how the light effects the load (LED strips) in my circuit. When I cover the light around my photoresistor, my LED is signaled to turn down its brightness!
             </p>
         </div>
 
