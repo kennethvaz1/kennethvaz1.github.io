@@ -4,8 +4,7 @@
         <meta charset="utf-8">
         <meta name="viewport" content="width=device-width, maximum-scale=1.0" />
 
-        <title> Datalogging from the arduino board!</title>
-
+        <title> Interactive Datalogging using p5.js! </title>
         <link href="style.css" media="screen" rel="stylesheet" type="text/css" />
 
     </head>
@@ -17,19 +16,23 @@
             <img src="Circuit6.jpg" width=400>
             </p>
             <p>
-            No breadboard used in schematic.
+            My circuit connects a potentiometer to my Arduino's 5V source, ground, and A0 pin!
             </p>
             <p>
-            <img src="Code6.JPG" width=400>
+            Arduino Code:
+            <img src="Code6Arduino.JPG" width=400>
             </p>
             <p>
-            Shows what my code is reading!
+            My firmware reads the data coming from my Arduino and prints it to the serial monitor! The values printed change when the potentiometer is turned.
             </p>
             <p>
-            <img src="Schematic6.JPG" width=400>
+            p5.js Code:
+            <img src="Code6p5.JPG" width=400>
+            <img src="code6p52.JPG" width=400>
+            <img src="Code6p53.JPG" width=400>
             </p>
             <p>
-             My schematic shows how my arduino is connected to the USB port
+                My webpage's p5.js code reads a single byte of data coming in from the Arduino and assigns it to a circleSize variable. After setting circleSize to the data coming in from the Arduino, my sketch draws a particular sized gold circle on a purple background, where the size of the circle depends on potentiometer reading (i.e. how much it is turned).
             </p>
             <p>
             <video width="480" height="360" controls >
@@ -37,7 +40,7 @@
             </video>
             </p>
             <p>
-                This GIF shows how the changes in RX and TX are reflected on my arduino board!
+                This GIF shows how turning the potentiometer affects my webpage. By setting the potentiometer to different resistances, my webpage will display a different sized circle!
             </p>
         </div>
 
