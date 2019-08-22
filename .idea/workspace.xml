@@ -1,90 +1,93 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="e0074a03-f4a5-4a02-b5d0-2627789f9fc8" name="Default Changelist" comment="">
+    <list default="true" id="a2b8907c-bcbb-4cef-bb02-241a0a225acd" name="Default Changelist" comment="">
+      <change afterPath="$PROJECT_DIR$/.idea/kennethvaz.github.io.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/HVS.jpeg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/aboutme.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/arts.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/kennethvaz1.github.io.iml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/misc.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/modules.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/modules.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/vcs.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/A4.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assignment_4/.idea/Assignment_4.iml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assignment_4/.idea/misc.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assignment_4/.idea/modules.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assignment_4/.idea/vcs.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assignment_4/.idea/workspace.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Blink_Code/Blink_Code.ino" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Blink_Code_Snippet.JPG" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Circuit .jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Circuit2.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Circuit3.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Circuit4.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Circuit4F.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Circuit5.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Circuit6.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Circuit8.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/CircuitA4.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Circuitfinal.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Code2.JPG" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Code3.JPG" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Code4.JPG" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Code6.JPG" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Code6Arduino.JPG" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Code6p5.JPG" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Code6p53.JPG" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/CodeFinal.JPG" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/FinalConcept.JPG" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/FinalParts.JPG" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Final_image.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Finalsetup.JPG" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/G.mp4" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/GIF.mp4" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/GIF2.mp4" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/GIF3.mp4" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/GIF4.mp4" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/GIF42.MOV" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/GIF4f.mp4" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/GIF5.mp4" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/GIF6.mp4" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/IMG_0923.MOV" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Image6.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Kenneth.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/README.md" beforeDir="false" afterPath="$PROJECT_DIR$/README.md" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Schematic1.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Schematic2.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Schematic4.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Schematic6.JPG" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Schematic8.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Schematicfinal.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Schematicfinal0.JPG" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Schematicfinal1.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Scheme3.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Scheme4.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Scheme5.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Soldering8.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/assignment1.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/assignment2.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/assignment3.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/assignment4.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/assignment5.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/assignment6.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/assignment7.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/assignment8.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/code51.JPG" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/code52.JPG" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/code6p52.JPG" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/final.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/image8.jpg" beforeDir="false" />
       <change beforePath="$PROJECT_DIR$/index.html" beforeDir="false" afterPath="$PROJECT_DIR$/index.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/red-panda.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/style.css" beforeDir="false" />
     </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
     <option name="LAST_RESOLUTION" value="IGNORE" />
-  </component>
-  <component name="FUSProjectUsageTrigger">
-    <session id="640285305">
-      <usages-collector id="statistics.lifecycle.project">
-        <counts>
-          <entry key="project.closed" value="4" />
-          <entry key="project.open.time.1" value="2" />
-          <entry key="project.open.time.10" value="2" />
-          <entry key="project.open.time.5" value="1" />
-          <entry key="project.opened" value="5" />
-        </counts>
-      </usages-collector>
-      <usages-collector id="statistics.file.extensions.open">
-        <counts>
-          <entry key="html" value="8" />
-          <entry key="js" value="2" />
-        </counts>
-      </usages-collector>
-      <usages-collector id="statistics.file.types.open">
-        <counts>
-          <entry key="HTML" value="8" />
-          <entry key="JavaScript" value="2" />
-        </counts>
-      </usages-collector>
-      <usages-collector id="statistics.file.extensions.edit">
-        <counts>
-          <entry key="html" value="3068" />
-        </counts>
-      </usages-collector>
-      <usages-collector id="statistics.file.types.edit">
-        <counts>
-          <entry key="HTML" value="3068" />
-        </counts>
-      </usages-collector>
-    </session>
-  </component>
-  <component name="FileEditorManager">
-    <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
-      <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/assignment1.html">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="85">
-              <caret line="5" selection-start-line="5" selection-end-line="5" />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file pinned="false" current-in-tab="true">
-        <entry file="file://$PROJECT_DIR$/index.html">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="113">
-              <caret line="14" column="30" selection-start-line="14" selection-start-column="30" selection-end-line="14" selection-end-column="30" />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/final.html">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="544">
-              <caret line="32" column="91" selection-start-line="32" selection-start-column="91" selection-end-line="32" selection-end-column="91" />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/assignment4.html">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="527">
-              <caret line="31" column="43" selection-start-line="31" selection-start-column="43" selection-end-line="31" selection-end-column="43" />
-            </state>
-          </provider>
-        </entry>
-      </file>
-    </leaf>
   </component>
   <component name="FileTemplateManagerImpl">
     <option name="RECENT_TEMPLATES">
@@ -96,64 +99,19 @@
   <component name="Git.Settings">
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
   </component>
-  <component name="IdeDocumentHistory">
-    <option name="CHANGED_PATHS">
-      <list>
-        <option value="$PROJECT_DIR$/assignment6.html" />
-        <option value="$PROJECT_DIR$/assignment1.html" />
-        <option value="$PROJECT_DIR$/assignment4.html" />
-        <option value="$PROJECT_DIR$/final.html" />
-        <option value="$PROJECT_DIR$/index.html" />
-      </list>
-    </option>
-  </component>
-  <component name="JsBuildToolGruntFileManager" detection-done="true" sorting="DEFINITION_ORDER" />
-  <component name="JsBuildToolPackageJson" detection-done="true" sorting="DEFINITION_ORDER" />
-  <component name="JsGulpfileManager">
-    <detection-done>true</detection-done>
-    <sorting>DEFINITION_ORDER</sorting>
-  </component>
-  <component name="ProjectFrameBounds" extendedState="6">
-    <option name="x" value="3" />
-    <option name="width" value="1161" />
-    <option name="height" value="1032" />
-  </component>
-  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
-  <component name="ProjectView">
-    <navigator proportions="" version="1">
-      <foldersAlwaysOnTop value="true" />
-    </navigator>
-    <panes>
-      <pane id="ProjectPane">
-        <subPane>
-          <expand>
-            <path>
-              <item name="kennethvaz1.github.io" type="b2602c69:ProjectViewProjectNode" />
-              <item name="kennethvaz1.github.io" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="kennethvaz1.github.io" type="b2602c69:ProjectViewProjectNode" />
-              <item name="kennethvaz1.github.io" type="462c0819:PsiDirectoryNode" />
-              <item name="Assignment_4" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="kennethvaz1.github.io" type="b2602c69:ProjectViewProjectNode" />
-              <item name="kennethvaz1.github.io" type="462c0819:PsiDirectoryNode" />
-              <item name="Blink_Code" type="462c0819:PsiDirectoryNode" />
-            </path>
-          </expand>
-          <select />
-        </subPane>
-      </pane>
-      <pane id="Scope" />
-    </panes>
-  </component>
+  <component name="ProjectId" id="1PWyRFRM3ZxjTog9XT3HIwZL2Fx" />
   <component name="PropertiesComponent">
     <property name="DefaultHtmlFileTemplate" value="HTML File" />
+    <property name="SHARE_PROJECT_CONFIGURATION_FILES" value="true" />
     <property name="WebServerToolWindowFactoryState" value="false" />
     <property name="last_opened_file_path" value="$PROJECT_DIR$" />
     <property name="nodejs_interpreter_path.stuck_in_default_project" value="undefined stuck path" />
     <property name="nodejs_npm_path_reset_for_default_project" value="true" />
+  </component>
+  <component name="RecentsManager">
+    <key name="CopyFile.RECENT_KEYS">
+      <recent name="C:\Users\Kenneth Vaz\Portfolio\kennethvaz.github.io" />
+    </key>
   </component>
   <component name="RunDashboard">
     <option name="ruleStates">
@@ -167,97 +125,45 @@
       </list>
     </option>
   </component>
+  <component name="RunManager">
+    <configuration name="index.html" type="JavascriptDebugType" temporary="true" nameIsGenerated="true" uri="http://localhost:63342/kennethvaz.github.io/index.html" useBuiltInWebServerPort="true">
+      <method v="2" />
+    </configuration>
+    <recent_temporary>
+      <list>
+        <item itemvalue="JavaScript Debug.index.html" />
+      </list>
+    </recent_temporary>
+  </component>
   <component name="SvnConfiguration">
     <configuration />
   </component>
   <component name="TaskManager">
     <task active="true" id="Default" summary="Default task">
-      <changelist id="e0074a03-f4a5-4a02-b5d0-2627789f9fc8" name="Default Changelist" comment="" />
-      <created>1552341889910</created>
+      <changelist id="a2b8907c-bcbb-4cef-bb02-241a0a225acd" name="Default Changelist" comment="" />
+      <created>1566004137097</created>
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
-      <updated>1552341889910</updated>
+      <updated>1566004137097</updated>
+      <workItem from="1566004141393" duration="8497000" />
+      <workItem from="1566187078789" duration="44837000" />
     </task>
     <servers />
-  </component>
-  <component name="ToolWindowManager">
-    <frame x="-7" y="-7" width="1295" height="735" extended-state="6" />
-    <editor active="true" />
-    <layout>
-      <window_info active="true" content_ui="combo" id="Project" order="0" visible="true" weight="0.26639676" />
-      <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
-      <window_info id="Favorites" order="2" side_tool="true" />
-      <window_info anchor="bottom" id="Message" order="0" />
-      <window_info anchor="bottom" id="Find" order="1" />
-      <window_info anchor="bottom" id="Run" order="2" />
-      <window_info anchor="bottom" id="Debug" order="3" weight="0.4" />
-      <window_info anchor="bottom" id="Cvs" order="4" weight="0.25" />
-      <window_info anchor="bottom" id="Inspection" order="5" weight="0.4" />
-      <window_info anchor="bottom" id="TODO" order="6" />
-      <window_info anchor="bottom" id="Docker" order="7" show_stripe_button="false" />
-      <window_info anchor="bottom" id="Version Control" order="8" show_stripe_button="false" />
-      <window_info anchor="bottom" id="Database Changes" order="9" show_stripe_button="false" />
-      <window_info anchor="bottom" id="Event Log" order="10" side_tool="true" />
-      <window_info anchor="bottom" id="Terminal" order="11" />
-      <window_info anchor="bottom" id="Python Console" order="12" />
-      <window_info anchor="right" id="Commander" internal_type="SLIDING" order="0" type="SLIDING" weight="0.4" />
-      <window_info anchor="right" id="Ant Build" order="1" weight="0.25" />
-      <window_info anchor="right" content_ui="combo" id="Hierarchy" order="2" weight="0.25" />
-      <window_info anchor="right" id="SciView" order="3" />
-      <window_info anchor="right" id="Database" order="4" />
-    </layout>
   </component>
   <component name="TypeScriptGeneratedFilesManager">
     <option name="version" value="1" />
   </component>
-  <component name="VcsContentAnnotationSettings">
-    <option name="myLimit" value="2678400000" />
-  </component>
-  <component name="editorHistoryManager">
-    <entry file="file://$PROJECT_DIR$/../Assignment 6 DataLogging/p5/hcde439-example2/sketch.js">
-      <provider selected="true" editor-type-id="text-editor" />
-    </entry>
-    <entry file="file://$PROJECT_DIR$/../Assignment 6 DataLogging/p5/hcde439-example/sketch.js">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="518">
-          <caret line="85" column="13" selection-start-line="85" selection-start-column="13" selection-end-line="85" selection-end-column="13" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/assignment6.html">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="399">
-          <caret line="54" column="16" lean-forward="true" selection-end-line="61" selection-end-column="7" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/assignment1.html">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="85">
-          <caret line="5" selection-start-line="5" selection-end-line="5" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/final.html">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="544">
-          <caret line="32" column="91" selection-start-line="32" selection-start-column="91" selection-end-line="32" selection-end-column="91" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/assignment4.html">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="527">
-          <caret line="31" column="43" selection-start-line="31" selection-start-column="43" selection-end-line="31" selection-end-column="43" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/index.html">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="113">
-          <caret line="14" column="30" selection-start-line="14" selection-start-column="30" selection-end-line="14" selection-end-column="30" />
-        </state>
-      </provider>
-    </entry>
+  <component name="Vcs.Log.Tabs.Properties">
+    <option name="TAB_STATES">
+      <map>
+        <entry key="MAIN">
+          <value>
+            <State>
+              <option name="COLUMN_ORDER" />
+            </State>
+          </value>
+        </entry>
+      </map>
+    </option>
   </component>
 </project>
